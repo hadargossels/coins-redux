@@ -1,0 +1,71 @@
+{
+    "XRP": [
+    {
+        "name": "XRPAUD",
+        "data1": 1.55,
+        "data2": -0.57,
+        "data3": "121.8K",
+        "star": false
+    },
+    {
+        "name": "XRPBTC",
+        "data1": 0.0002345,
+        "data2": 0.43,
+        "data3": "824.6K",
+        "star": false
+    },
+    {
+        "name": "XRPCAD",
+        "data1": 1.43,
+        "data2": -0.35,
+        "data3": "222.3K",
+        "star": false
+    }
+],
+    "BCH": [
+        {
+            "name": "BHCAUD",
+            "data1": 1.55,
+            "data2": -0.57,
+            "data3": "121.8K",
+            "star": false
+        },
+        {
+            "name": "BHCBTC",
+            "data1": 0.0002345,
+            "data2": 0.43,
+            "data3": "824.6K",
+            "star": true
+        },
+        {
+            "name": "BHCCAD",
+            "data1": 1.43,
+            "data2": -0.35,
+            "data3": "222.3K",
+            "star": true
+        }
+    ],
+    "LTC": [
+        {
+            "name": "LTCAUD",
+            "data1": 1.55,
+            "data2": -0.57,
+            "data3": "121.8K",
+            "star": false
+        },
+        {
+            "name": "LTCBTC",
+            "data1": 0.0002345,
+            "data2": 0.43,
+            "data3": "824.6K",
+            "star": false
+        },
+        {
+            "name": "LTCCAD",
+            "data1": 1.43,
+            "data2": -0.35,
+            "data3": "222.3K",
+            "star": true
+        }
+    ]
+}
